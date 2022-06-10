@@ -1,5 +1,5 @@
 
-<!--<p align="center"><img src="https://tenor.com/view/coding-gif-23705658.gif" width="100"/></p> -->
+<p align="center"><img src="https://tenor.com/view/coding-gif-23705658.gif" width="100"/></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/utham-bathoju-756805a6/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
