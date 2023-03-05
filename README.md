@@ -16,7 +16,7 @@
 
 I am a Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🌱 I work at Optum Global Solutions - United Health Group
+- 🌱 I work at Micron Technology
 - ⚡ I work on ML/AI based applications and research
 - 📫 I design AI/ML based large scale products/solutions
 <!--
